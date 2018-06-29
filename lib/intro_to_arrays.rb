@@ -6,6 +6,14 @@ def array_with_two_elements
   new_array = [1,2]
 end
 
+def third_element(array)
+  array[2]
+end
+
+def length_of_array(array)
+  array.length
+end
+
 def first_element(array)
   array[0]
 end
